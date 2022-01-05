@@ -1,0 +1,60 @@
+const Menu = [
+  {
+    id: 1,
+    image: "images/foods/1.jpg",
+    foodname: "demo food 1",
+    fooddetails: "Demo Details of the food 1",
+    category: "Starter",
+    price: 199,
+  },
+  {
+    id: 2,
+    image: "images/foods/2.jpg",
+    foodname: "demo food 2",
+    fooddetails: "Demo Details of the food 2",
+    category: "Meal",
+    price: 199,
+  },
+  {
+    id: 3,
+    image: "images/foods/3.jpg",
+    foodname: "demo food 3",
+    fooddetails: "Demo Details of the food 3",
+    category: "Starter",
+    price: 199,
+  },
+  {
+    id: 4,
+    image: "images/foods/4.jpg",
+    foodname: "demo food 4",
+    fooddetails: "Demo Details of the food 4",
+    category: "Combo",
+    price: 199,
+  },
+  {
+    id: 5,
+    image: "images/foods/5.jpg",
+    foodname: "demo food 5",
+    fooddetails: "Demo Details of the food 5",
+    category: "Meal",
+    price: 199,
+  },
+  {
+    id: 6,
+    image: "images/foods/6.jpg",
+    foodname: "demo food 6",
+    fooddetails: "Demo Details of the food 6",
+    category: "Combo",
+    price: 199,
+  },
+  {
+    id: 7,
+    image: "images/foods/7.jpg",
+    foodname: "demo food 7",
+    fooddetails: "Demo Details of the food 7",
+    category: "New",
+    price: 199,
+  },
+
+];
+export default Menu;
