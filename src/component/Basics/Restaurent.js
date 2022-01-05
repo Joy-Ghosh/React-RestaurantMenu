@@ -47,7 +47,7 @@ const Restaurent = () => {
             <a href="">
               <div className="banner_text">
                 <h1 className="banner_heading">
-                  Try My Menu
+                  Khabardabar Menu
                   <i className="far fa-arrow-alt-circle-right new_right_arrow"></i>
                 </h1>
               </div>

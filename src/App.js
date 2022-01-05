@@ -1,12 +1,15 @@
-import React from 'react'
-import Restaurent from './component/Basics/Restaurent'
+import React from "react";
+
+import Restaurent from "./component/Basics/Restaurent";
+
 
 const App = () => {
   return (
     <>
-      <Restaurent/>
+      
+      <Restaurent />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
