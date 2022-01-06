@@ -3,6 +3,7 @@ import "./style.css";
 import Menu from "./menuApi";
 import MenuCard from "./MenuCard";
 import CategoryBar from "./CategoryBar";
+import { FaHome , FaShareAlt } from "react-icons/fa";
 
 const uniqueList = [
   ...new Set(
@@ -36,10 +37,10 @@ const Restaurent = () => {
         <div id="bannerContainer" className="banner_container">
           <div className="up">
             <div className="icon">
-              <i className="fas fa-home">0</i>
+              <FaHome className="newicon"/>
             </div>
             <div className="icon">
-              <i className="fas fa-share-alt">1</i>
+              <FaShareAlt className="newicon"/>
             </div>
           </div>
 

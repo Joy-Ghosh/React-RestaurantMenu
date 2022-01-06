@@ -69,7 +69,7 @@
     border-radius: 25px;
     padding: 10px;
   }
-  .icon i {
+  .icon .newicon {
     font-size: 1.51rem;
   }
 
@@ -336,7 +336,7 @@ body {
   border-radius: 25px;
   padding: 10px;
 }
-.icon i {
+.icon .newicon {
   font-size: 1.51rem;
 }
 
